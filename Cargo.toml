@@ -1,18 +1,17 @@
 [package]
-name = "rendezvous_hash"
-version = "0.3.0"
-authors = ["Takeru Ohta <phjgt308@gmail.com>"]
+name = "RendezvousHash"
+version = "0.1.0"
 description = "An implementation of Rendezvous hashing algorithm"
-homepage = "https://github.com/sile/rendezvous_hash"
-repository = "https://github.com/sile/rendezvous_hash"
+homepage = "https://github.com/swy870520/RendezvousHash"
+repository = "https://github.com/swy870520/RendezvousHash"
 readme = "README.md"
 keywords = ["distributed", "hash"]
 license = "MIT"
 edition = "2018"
 
 [badges]
-travis-ci = {repository = "sile/rendezvous_hash"}
-codecov = {repository = "sile/rendezvous_hash"}
+travis-ci = {repository = "swy870520/RendezvousHash"}
+codecov = {repository = "swy870520/RendezvousHash"}
 
 [dependencies]
 
